@@ -1,14 +1,14 @@
-###00.-PyTorch-Fundamentals-DAY_3-
+***00.-PyTorch-Fundamentals-DAY_3***
 
-##PyTorch Tensor Manipulation and Indexing Tutorial
+***PyTorch Tensor Manipulation and Indexing Tutorial***
 
 This repository contains a comprehensive tutorial on tensor manipulation and indexing in PyTorch. Understanding these concepts is crucial for effectively working with PyTorch tensors, which form the backbone of neural network computations.
 
-##Overview 
+***Overview***
 
 In this tutorial, we cover various operations for reshaping, stacking, squeezing, unsqueezing, and indexing PyTorch tensors. These operations are essential for preparing data, building neural network architectures, and performing computations in deep learning models.
 
-##Contents
+***Contents***
 
 **Reshaping Tensors:**
 
